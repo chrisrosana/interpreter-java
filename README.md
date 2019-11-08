@@ -1,4 +1,4 @@
-# CSC 413 - Interpreter
+# Interpreter Java
 
 ## File Structure
 ```css
